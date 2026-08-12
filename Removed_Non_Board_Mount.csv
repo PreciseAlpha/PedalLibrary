@@ -1,0 +1,34 @@
+SKU,Item,Footprint,Confidence,Status
+POT-10-,16mm Potentiometer - Solder Lug,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+POT-10-DG,16mm Dual Gang Potentiometer - Solder Lug,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+CL-POT-PP,16mm Potentiometer - Push/Pull,,UNMAPPED,mechanical dimensions specific
+JACK-1015,"1/4"" TS Enclosed Jack - Panel Mount - Skinny Lug",,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+JACK-1011,"1/4"" TS Open Jack - NYS229",,UNMAPPED,panel mount or vendor-specific mechanical
+JACK-1020,"1/4"" TS Open Jack - KLBM 3",,UNMAPPED,panel mount or vendor-specific mechanical
+JACK-1024,"1/4"" TS Enclosed Jack - Panel Mount",,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+JACK-1016,"1/4"" TRS Enclosed Jack - Panel Mount - Skinny Lug",,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+JACK-1025,"1/4"" TRS Enclosed Jack - Panel Mount",,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+JACK-1010,"1/4"" TRS Open Jack - NYS230",,UNMAPPED,panel mount or vendor-specific mechanical
+JACK-1018,"1/4"" TRS Enclosed Switched Jack - Solder Lug",,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+JACK-1017,"1/4"" TS Enclosed Switched Jack - Solder Lug",,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+JACK-1021,"1/4"" TRS Open Jack - KLB 3",,UNMAPPED,panel mount or vendor-specific mechanical
+JACK-1022,"1/4"" TS Open Jack - #11",,UNMAPPED,panel mount or vendor-specific mechanical
+JACK-1023,"1/4"" TRS Open Jack - #12B",,UNMAPPED,panel mount or vendor-specific mechanical
+DC-1000,DC Power Jack 2.1mm - Innie,,UNMAPPED,panel mount or vendor-specific mechanical
+DC-1002,DC Power Jack 2.1mm - Outie,,UNMAPPED,panel mount or vendor-specific mechanical
+DC-1004,DC Power Jack 2.1mm - Low Profile,,UNMAPPED,panel mount or vendor-specific mechanical
+DC-1005,DC Power Jack 2.1mm - 1614 09,,UNMAPPED,panel mount or vendor-specific mechanical
+DC-1003,DC Power Jack 2.1mm - RAPC722X,,UNMAPPED,panel mount or vendor-specific mechanical
+FSW-1032,3PDT Footswitch PRO - Solder Lug,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+FSW-M-SQ,SPST Footswitch PRO - Soft Touch - Square Top,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+FSW-1006,3PDT Low Profile Footswitch - Latching,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+FSW-1013,SPST Footswitch PRO - Soft Touch - Round Top,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+FSW-1010,3PDT Footswitch - Solder Lug - Vimex,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+FSW-1016,3PDT Footswitch - Solder Lug - Alpha,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+FSW-1004,4PDT Footswitch - Latching,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+FSW-1005M,3PDT Footswitch - Momentary,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+TOG-1005,SPDT Toggle Switch ON/ON - Solder Lug,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+TOG-1012,DPDT Toggle Switch ON/ON - Solder Lug,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+TOG-1008,SPDT Toggle Switch ON/OFF/ON - Solder Lug,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+RSW-1p2-12t,1P12T Rotary Switch - Solder Lug,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified
+T-10505-HC,HTS-10505-HC Power Transformer for Reverend Goblin 5-15,,N/A,No PCB footprint assigned: off-board/panel-mount or physical revision not specified

@@ -1,0 +1,22 @@
+(footprint "C_Bipolar_Radial_D5.0_P2.0"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Radial electrolytic D5.0 mm, pitch 2.0 mm, height 11.0 mm")
+	(attr through_hole)
+	(property "Reference" "REF**"
+		(at 0 -4.5 0)
+		(layer "F.SilkS")
+		(effects (font (size 1 1) (thickness 0.15)))
+	)
+	(property "Value" "C_Bipolar_Radial_D5.0_P2.0"
+		(at 0 4.5 0)
+		(layer "F.Fab")
+		(effects (font (size 1 1) (thickness 0.15)))
+	)
+	(fp_circle (center 0.000 0.000) (end 2.500 0.000) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
+	(fp_circle (center 0.000 0.000) (end 2.750 0.000) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
+	(pad "1" thru_hole rect (at -1.000 0.000) (size 2.000 2.000) (drill 0.900) (layers "*.Cu" "*.Mask"))
+	(pad "2" thru_hole circle (at 1.000 0.000) (size 2.000 2.000) (drill 0.900) (layers "*.Cu" "*.Mask"))
+)

@@ -1,0 +1,15 @@
+﻿Symbol,Value,Footprint,Polarity
+CP_Radial_D5.0_P2.0,Polarized Electrolytic D5.0mm P2.0mm,Library:CP_Radial_D5.0_P2.0,Polarized
+CP_Radial_D6.5_P2.5,Polarized Electrolytic D6.5mm P2.5mm,Library:CP_Radial_D6.5_P2.5,Polarized
+CP_Radial_D8.2_P3.5,Polarized Electrolytic D8.2mm P3.5mm,Library:CP_Radial_D8.2_P3.5,Polarized
+C_Bipolar_Radial_D5.0_P2.0,Bipolar Electrolytic D5.0mm P2.0mm,Library:C_Bipolar_Radial_D5.0_P2.0,Non-polarized
+C_Bipolar_Radial_D8.0_P3.5,Bipolar Electrolytic D8.0mm P3.5mm,Library:C_Bipolar_Radial_D8.0_P3.5,Non-polarized
+C_Box_7.2x2.4_P5.00,Box Film 7.2x2.4mm P5.00mm,Library:C_Box_7.2x2.4_P5.00,Non-polarized
+C_Box_7.2x3.4_P5.00,Box Film 7.2x3.4mm P5.00mm,Library:C_Box_7.2x3.4_P5.00,Non-polarized
+C_Box_7.2x3.5_P5.00,Box Film 7.2x3.5mm P5.00mm,Library:C_Box_7.2x3.5_P5.00,Non-polarized
+C_Box_7.2x4.3_P5.00,Box Film 7.2x4.3mm P5.00mm,Library:C_Box_7.2x4.3_P5.00,Non-polarized
+C_Box_7.2x4.8_P5.00,Box Film 7.2x4.8mm P5.00mm,Library:C_Box_7.2x4.8_P5.00,Non-polarized
+C_Box_7.2x5.8_P5.00,Box Film 7.2x5.8mm P5.00mm,Library:C_Box_7.2x5.8_P5.00,Non-polarized
+C_Disc_D5.0mm_W2.5mm_P5.00mm,Ceramic Disc D5.0mm W2.5mm P5.00mm,Library:C_Disc_D5.0mm_W2.5mm_P5.00mm,Non-polarized
+C_Rect_L7.0mm_W2.0mm_P5.00mm,Film Capacitor 7.0x2.0mm P5.00mm,Library:C_Rect_L7.0mm_W2.0mm_P5.00mm,Non-polarized
+C_MLCC_Radial_P5.00,MLCC Radial P5.00mm,Library:C_Disc_D5.0mm_W2.5mm_P5.00mm,Non-polarized

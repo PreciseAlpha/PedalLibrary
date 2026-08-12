@@ -1,0 +1,16 @@
+﻿Store_SKU,Store_Value_or_Family,Body_Size_mm,Lead_Pitch_mm,Library_Footprint,Confidence,Notes
+RES-QW,1/4W axial resistor,DIN0207 approx 6.3x2.5,7.62,Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,REVIEW,Store does not publish body dimensions; compact alternative
+RES-QW,1/4W axial resistor,DIN0207 approx 6.3x2.5,10.16,Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,REVIEW,Existing roomy alternative
+CAP-300B,Box film family,7.2x2.4x6.4,5.0,Library:C_Box_7.2x2.4_P5.00,HIGH,Store-published body size; choose by selected capacitance
+CAP-300B,Box film family,7.2x3.4x7.8,5.0,Library:C_Box_7.2x3.4_P5.00,HIGH,Store-published body size; choose by selected capacitance
+CAP-300B,Box film family,7.2x3.5x7.5,5.0,Library:C_Box_7.2x3.5_P5.00,HIGH,Store-published body size; choose by selected capacitance
+CAP-300B,Box film family,7.2x4.3x9.5,5.0,Library:C_Box_7.2x4.3_P5.00,HIGH,Store-published body size; choose by selected capacitance
+CAP-300B,Box film family,7.2x4.8x10.0,5.0,Library:C_Box_7.2x4.8_P5.00,HIGH,Store-published body size; choose by selected capacitance
+CAP-300B,Box film family,7.2x5.8x10.9,5.0,Library:C_Box_7.2x5.8_P5.00,HIGH,Store-published body size; choose by selected capacitance
+CAP-E,Most values,5x12,2.0,Library:CP_Radial_D5.0_P2.0,REVIEW,Body exact from store; pitch verify physical part
+CAP-E,100uF/35V; 220uF/25V; 33uF/63V; 47uF/63V,6.5x12,2.5,Library:CP_Radial_D6.5_P2.5,REVIEW,Body exact from store; pitch verify physical part
+CAP-E,220uF/35V; 330uF/25V; 470uF/16V,8.2x12,3.5,Library:CP_Radial_D8.2_P3.5,REVIEW,Body exact from store; pitch verify physical part
+CAP-A,Most values,5x12.5,2.0,Library:CP_Radial_D5.0_P2.0,REVIEW,Body exact from store; pitch verify physical part
+CAP-A,100uF/35V,6.5x12.5,2.5,Library:CP_Radial_D6.5_P2.5,REVIEW,Body exact from store; pitch verify physical part
+CAP-EBP-,1uF; 2.2uF; 10uF,5x11,2.0,Library:C_Bipolar_Radial_D5.0_P2.0,REVIEW,Body exact from store; pitch verify physical part
+CAP-EBP-,47uF/35V,8x12.5,3.5,Library:C_Bipolar_Radial_D8.0_P3.5,REVIEW,Body exact from store; pitch verify physical part

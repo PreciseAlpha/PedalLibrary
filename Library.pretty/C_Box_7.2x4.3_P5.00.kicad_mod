@@ -1,0 +1,22 @@
+(footprint "C_Box_7.2x4.3_P5.00"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "StompBoxParts box film capacitor body 7.2 x 4.3 mm, lead pitch 5.0 mm, height 9.5 mm")
+	(attr through_hole)
+	(property "Reference" "REF**"
+		(at 0 -4.15 0)
+		(layer "F.SilkS")
+		(effects (font (size 1 1) (thickness 0.15)))
+	)
+	(property "Value" "C_Box_7.2x4.3_P5.00"
+		(at 0 4.15 0)
+		(layer "F.Fab")
+		(effects (font (size 1 1) (thickness 0.15)))
+	)
+	(fp_rect (start -3.600 -2.150) (end 3.600 2.150) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
+	(fp_rect (start -3.850 -2.400) (end 3.850 2.400) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
+	(pad "1" thru_hole rect (at -2.500 0.000) (size 1.800 1.800) (drill 0.800) (layers "*.Cu" "*.Mask"))
+	(pad "2" thru_hole circle (at 2.500 0.000) (size 1.800 1.800) (drill 0.800) (layers "*.Cu" "*.Mask"))
+)
