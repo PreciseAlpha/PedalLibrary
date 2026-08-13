@@ -1,0 +1,140 @@
+(footprint "J_NMJ4HCD2"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Neutrik NMJ4HCD2 exact PCB hole layout from Neutrik ST-NMJ4HCD2 drawing; component side; switched TS, 4 contacts")
+	(property "Reference" "REF**"
+		(at -11.8 -11.2 0)
+		(layer "F.SilkS")
+		(uuid "734a282f-9f99-4554-a26a-99793ac88413")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "J_NMJ4HCD2"
+		(at -11.8 11.2 0)
+		(layer "F.Fab")
+		(uuid "a5b6f80f-ced6-489a-8c76-3ef68d42d103")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d6224d8-00b0-4ac8-965a-f160996d48c8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "245f3a4d-f9e3-4710-9c04-1637113a23d0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -23.53 -9.1)
+		(end 0 9.1)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "190f3b62-c84b-4920-baf8-5245049b6a17")
+	)
+	(fp_rect
+		(start 0 -9.1)
+		(end 2.9 9.1)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "cb501111-a1d5-4a5e-bf46-05ca8392ac4a")
+	)
+	(fp_rect
+		(start -24.03 -9.6)
+		(end 0.5 9.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "502a03ef-0037-4a24-a9d1-016f3e16411b")
+	)
+	(fp_line
+		(start 0 -10)
+		(end 0 10)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1ee2f435-37a0-4887-ac3a-9aae3808c682")
+	)
+	(pad "1" thru_hole rect
+		(at -16.7 8.115)
+		(size 2.8 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0f1b9a0c-9d57-4d23-b542-039e966448a8")
+	)
+	(pad "2" thru_hole circle
+		(at -16.7 -8.115)
+		(size 2.8 2.8)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4783410b-1636-4521-985b-14227fe59d14")
+	)
+	(pad "3" thru_hole circle
+		(at -4 8.115)
+		(size 2.8 2.8)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "143370f3-c713-4a49-a216-d6954fc92e8d")
+	)
+	(pad "4" thru_hole circle
+		(at -4 -8.115)
+		(size 2.8 2.8)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e93234d2-5932-40b8-a5c3-fa5e9bb96968")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/JackMono.stp"
+		(offset
+			(xyz 0 0 8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)

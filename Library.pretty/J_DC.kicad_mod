@@ -1,0 +1,174 @@
+(footprint "J_DC"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Generic 5.5x2.1mm PCB-mount switched DC barrel jack")
+	(property "Reference" "REF**"
+		(at 0 -7.5 0)
+		(layer "F.SilkS")
+		(uuid "cd81a678-94b7-4672-b3e4-743da4afdb32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "J_DC"
+		(at 0 7.5 0)
+		(layer "F.Fab")
+		(uuid "14fe73cb-4ce8-488f-af5c-f538a1238064")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1e9f45c5-9780-4e61-aca2-e5c6f20c5204")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a66f1364-8fd8-42f1-85a6-cbeb2c7743f3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -7.8 -4.5)
+		(end -7.8 4.5)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "41b9f794-fc8a-4634-b549-3d82a32f51dc")
+	)
+	(fp_line
+		(start -7.8 4.5)
+		(end 0.7 4.5)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "69120327-82d5-4cc5-a7ba-155ca5a81be9")
+	)
+	(fp_line
+		(start 5.5 4.5)
+		(end 6.4 4.5)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "89133f71-ad69-4b44-9c55-083f211c9e4c")
+	)
+	(fp_line
+		(start 6.4 -4.5)
+		(end -7.8 -4.5)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "146b5f18-b99b-4299-bcc2-e6bbe0e90b71")
+	)
+	(fp_line
+		(start 6.4 -4.5)
+		(end 6.4 -2.8)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5f48c236-ee47-49f2-9a1d-c7f8458851f2")
+	)
+	(fp_line
+		(start 6.4 4.5)
+		(end 6.4 2.7)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0c088e5e-15e4-449f-9e4c-b7b146b1b297")
+	)
+	(fp_rect
+		(start -7.8 -4.4)
+		(end -4.3 4.4)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "59794977-28d7-4a4a-828f-a7e2dd0b2233")
+	)
+	(fp_rect
+		(start -9.1 -6)
+		(end 7.9 6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "53652085-672b-4418-8e30-c7b5144b5ef2")
+	)
+	(pad "1" thru_hole oval
+		(at 6 0)
+		(size 1.8 4.2)
+		(drill oval 0.6 2.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "4335a83b-03ec-4fa7-b021-d691f206ac17")
+	)
+	(pad "2" thru_hole oval
+		(at 3.1 4.5)
+		(size 3.6 1.8)
+		(drill oval 2.4 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "2de10497-db1a-4534-80b5-b197693fd0d1")
+	)
+	(pad "3" thru_hole oval
+		(at 0 0)
+		(size 1.8 3.9)
+		(drill oval 0.6 2.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "2999331c-4b89-4fbd-ad7b-84c6b4e27c70")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/DCJack.STEP"
+		(offset
+			(xyz -1 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -180 -0)
+		)
+	)
+)

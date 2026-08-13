@@ -1,0 +1,73 @@
+(footprint "TP_SQR"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Single through-hole square pad, 2.54 mm, 1.0 mm drill")
+	(property "Reference" "PAD**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "59fd7a71-b80f-41fa-be7c-b5137ac1a70f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TP_SQR"
+		(at 0 2.5 0)
+		(layer "F.Fab")
+		(uuid "127f90eb-e224-49bb-8bd0-cc77b0d12a40")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52b0c262-08b2-499c-af84-c60299b30ed6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52413974-51d9-4691-bb6b-97642adfd5fe")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -1.5 -1.5)
+		(end 1.5 1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "107d2f32-6c68-4309-a9af-ac084ee84483")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.54 2.54)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7a92a372-cc86-4904-baf1-d2beeac3fde5")
+	)
+	(embedded_fonts no)
+)

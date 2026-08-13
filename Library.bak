@@ -2511,7 +2511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DC-1001"
+		(property "Footprint" "Library:J_DC"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2708,7 +2708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2902,7 +2902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3096,7 +3096,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-41_SOD81_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3290,7 +3290,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-41_SOD81_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3484,7 +3484,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-41_SOD81_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3678,7 +3678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3896,7 +3896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4114,7 +4114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4332,7 +4332,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4550,7 +4550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4768,7 +4768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4962,7 +4962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5156,7 +5156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5350,7 +5350,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5544,7 +5544,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5738,7 +5738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5932,7 +5932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6126,7 +6126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6320,7 +6320,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6514,7 +6514,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6708,7 +6708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Library:D_DO-35_SOD27_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6902,7 +6902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DSW-1002"
+		(property "Footprint" "Library:SW_DIP-2"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7107,7 +7107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DSW-1003"
+		(property "Footprint" "Library:SW_DIP-3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7360,7 +7360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DSW-1004"
+		(property "Footprint" "Library:SW_DIP-4"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7661,7 +7661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DSW-1006"
+		(property "Footprint" "Library:SW_DIP-6"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8058,7 +8058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DSW-1012"
+		(property "Footprint" "Library:SW_DIP-12"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8743,7 +8743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:FAD-30mm"
+		(property "Footprint" "Library:SW_FAD-30mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8942,7 +8942,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:FSW-1018"
+		(property "Footprint" "Library:SW_3PDT"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9285,7 +9285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:FSW-1028"
+		(property "Footprint" "Library:SW_3PDT"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9628,7 +9628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Library:Head_1x04_2.54m"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9780,7 +9780,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 0 7.62 0)
+			(at 0 13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9790,7 +9790,7 @@
 			)
 		)
 		(property "Value" "CD4044BE"
-			(at 0 11.43 0)
+			(at 0 17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9799,7 +9799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-16_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-16"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9810,7 +9810,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://stompboxparts.com/integrated-circuits/"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd4043b.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1786655044450&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fcd4043b"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9878,8 +9878,8 @@
 		)
 		(symbol "IC-400-1022_0_1"
 			(rectangle
-				(start -3.81 10.16)
-				(end 3.81 -10.16)
+				(start -5.08 16.51)
+				(end 5.08 -17.78)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -9889,9 +9889,9 @@
 				)
 			)
 			(pin passive line
-				(at -6.35 8.89 0)
+				(at 7.62 -8.89 180)
 				(length 2.54)
-				(name "1"
+				(name "Q4"
 					(effects
 						(font
 							(size 1 1)
@@ -9907,9 +9907,9 @@
 				)
 			)
 			(pin passive line
-				(at -6.35 6.35 0)
+				(at 7.62 -15.24 180)
 				(length 2.54)
-				(name "2"
+				(name "NC"
 					(effects
 						(font
 							(size 1 1)
@@ -9925,9 +9925,9 @@
 				)
 			)
 			(pin passive line
-				(at -6.35 3.81 0)
+				(at -7.62 7.62 0)
 				(length 2.54)
-				(name "3"
+				(name "S1"
 					(effects
 						(font
 							(size 1 1)
@@ -9943,9 +9943,9 @@
 				)
 			)
 			(pin passive line
-				(at -6.35 1.27 0)
+				(at -7.62 10.16 0)
 				(length 2.54)
-				(name "4"
+				(name "R1"
 					(effects
 						(font
 							(size 1 1)
@@ -9961,9 +9961,9 @@
 				)
 			)
 			(pin passive line
-				(at -6.35 -1.27 0)
+				(at -7.62 -15.24 0)
 				(length 2.54)
-				(name "5"
+				(name "EN"
 					(effects
 						(font
 							(size 1 1)
@@ -9979,9 +9979,9 @@
 				)
 			)
 			(pin passive line
-				(at -6.35 -3.81 0)
+				(at -7.62 3.81 0)
 				(length 2.54)
-				(name "6"
+				(name "R2"
 					(effects
 						(font
 							(size 1 1)
@@ -9997,9 +9997,9 @@
 				)
 			)
 			(pin passive line
-				(at -6.35 -6.35 0)
+				(at -7.62 1.27 0)
 				(length 2.54)
-				(name "7"
+				(name "S2"
 					(effects
 						(font
 							(size 1 1)
@@ -10015,9 +10015,9 @@
 				)
 			)
 			(pin passive line
-				(at -6.35 -8.89 0)
+				(at 7.62 13.97 180)
 				(length 2.54)
-				(name "8"
+				(name "VSS"
 					(effects
 						(font
 							(size 1 1)
@@ -10033,9 +10033,9 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 8.89 180)
+				(at 7.62 3.81 180)
 				(length 2.54)
-				(name "9"
+				(name "Q2"
 					(effects
 						(font
 							(size 1 1)
@@ -10051,9 +10051,9 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 6.35 180)
+				(at 7.62 -2.54 180)
 				(length 2.54)
-				(name "10"
+				(name "Q3"
 					(effects
 						(font
 							(size 1 1)
@@ -10069,9 +10069,9 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 3.81 180)
+				(at -7.62 -5.08 0)
 				(length 2.54)
-				(name "11"
+				(name "S3"
 					(effects
 						(font
 							(size 1 1)
@@ -10087,9 +10087,9 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 1.27 180)
+				(at -7.62 -2.54 0)
 				(length 2.54)
-				(name "12"
+				(name "R3"
 					(effects
 						(font
 							(size 1 1)
@@ -10105,9 +10105,9 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 -1.27 180)
+				(at 7.62 10.16 180)
 				(length 2.54)
-				(name "13"
+				(name "Q1"
 					(effects
 						(font
 							(size 1 1)
@@ -10123,9 +10123,9 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 -3.81 180)
+				(at -7.62 -8.89 0)
 				(length 2.54)
-				(name "14"
+				(name "R4"
 					(effects
 						(font
 							(size 1 1)
@@ -10141,9 +10141,9 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 -6.35 180)
+				(at -7.62 -11.43 0)
 				(length 2.54)
-				(name "15"
+				(name "S4"
 					(effects
 						(font
 							(size 1 1)
@@ -10159,9 +10159,9 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 -8.89 180)
+				(at -7.62 13.97 0)
 				(length 2.54)
-				(name "16"
+				(name "VDD"
 					(effects
 						(font
 							(size 1 1)
@@ -10208,7 +10208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:IC-400-1031"
+		(property "Footprint" "Library:IC_DMP-20"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10689,7 +10689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10954,7 +10954,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11219,7 +11219,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-16_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-16"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11628,7 +11628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-14_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-14"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12002,7 +12002,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12267,7 +12267,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12532,7 +12532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-14_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-14"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12905,7 +12905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-14_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-14"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13278,7 +13278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-14_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-14"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13651,7 +13651,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13916,7 +13916,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14181,7 +14181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-14_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-14"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14554,7 +14554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14819,7 +14819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15084,7 +15084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15349,7 +15349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-14_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-14"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15722,7 +15722,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15987,7 +15987,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16252,7 +16252,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-16_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-16"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16661,7 +16661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16926,7 +16926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17191,7 +17191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17456,7 +17456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17721,7 +17721,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-16_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-16"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18130,7 +18130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:IC-400-1136"
+		(property "Footprint" "Library:IC_BTDR-2H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18359,7 +18359,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18624,7 +18624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:IC-400-1150"
+		(property "Footprint" "Library:IC_SOIC-28"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19249,7 +19249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19514,7 +19514,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19779,7 +19779,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Library:IC_SOIC-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20044,7 +20044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-16_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-16"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20453,7 +20453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20718,7 +20718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20983,7 +20983,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21248,7 +21248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-16_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-16"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21657,7 +21657,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-99-8"
+		(property "Footprint" "Library:Q_TO-99-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21922,7 +21922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22187,7 +22187,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-14_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-14"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22560,7 +22560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22825,7 +22825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23090,7 +23090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-14_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-14"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23463,7 +23463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:IND-ME6"
+		(property "Footprint" "Library:IND_ME6"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23657,7 +23657,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:JACK-1012"
+		(property "Footprint" "Library:J_NMJ4HCD2"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23862,7 +23862,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:JACK-1013"
+		(property "Footprint" "Library:J_NMJ6HCD2"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24115,7 +24115,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:LDR-P9203"
+		(property "Footprint" "Library:D_LDR"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24194,8 +24194,8 @@
 		)
 		(symbol "LDR-P9203_0_1"
 			(rectangle
-				(start -2.03 1.02)
-				(end 2.03 -1.02)
+				(start -2.54 1.02)
+				(end 2.54 -1.02)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -24320,7 +24320,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:LED_D3.0mm"
+		(property "Footprint" "Library:D_LED_3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24501,7 +24501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:LED_D3.0mm"
+		(property "Footprint" "Library:D_LED_3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24743,7 +24743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:LED_D3.0mm"
+		(property "Footprint" "Library:D_LED_3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24985,7 +24985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:LED_D3.0mm"
+		(property "Footprint" "Library:D_LED_3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25227,7 +25227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:LED_D5.0mm"
+		(property "Footprint" "Library:D_LED_5"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25469,7 +25469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:LED_D5.0mm"
+		(property "Footprint" "Library:D_LED_5"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25711,7 +25711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:LED_D5.0mm"
+		(property "Footprint" "Library:D_LED_5"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25953,7 +25953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:Testpoint_RND"
+		(property "Footprint" "Library:TP_RND"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26001,7 +26001,7 @@
 			(pin passive line
 				(at -3.81 0 0)
 				(length 2.54)
-				(name "PAD"
+				(name "1"
 					(effects
 						(font
 							(size 1 1)
@@ -26028,7 +26028,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "PAD"
+		(property "Reference" "1"
 			(at 0 2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26048,7 +26048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:Testpoint_SQR"
+		(property "Footprint" "Library:TP_SQR"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26342,7 +26342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:POT-41"
+		(property "Footprint" "Library:POT-16"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26541,7 +26541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:POT-41-C"
+		(property "Footprint" "Library:POT-16-C"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26740,7 +26740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:POT-41-DG"
+		(property "Footprint" "Library:POT-16-DG"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26937,9 +26937,9 @@
 				)
 			)
 			(pin passive line
-				(at 2.54 -5.08 90)
+				(at 7.62 0 180)
 				(length 2.54)
-				(name "5"
+				(name "W"
 					(effects
 						(font
 							(size 1 1)
@@ -26955,16 +26955,16 @@
 				)
 			)
 			(pin passive line
-				(at 7.62 0 180)
+				(at 2.54 -5.08 90)
 				(length 2.54)
-				(name "W"
+				(name "6"
 					(effects
 						(font
 							(size 1 1)
 						)
 					)
 				)
-				(number "5"
+				(number "6"
 					(effects
 						(font
 							(size 1 1)
@@ -27004,7 +27004,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27263,7 +27263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27389,9 +27389,10 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 0 0)
-				(radius 3.56)
+			(polyline
+				(pts
+					(xy 0 2.54) (xy -0.127 1.905) (xy 0.508 1.778)
+				)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -27400,10 +27401,9 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy 0.2 1.8) (xy -0.3 1.45) (xy 0.1 1.1)
-				)
+			(circle
+				(center 0 0)
+				(radius 3.56)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -27522,7 +27522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27781,7 +27781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28040,7 +28040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28299,7 +28299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28558,7 +28558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28684,9 +28684,10 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 0 0)
-				(radius 3.56)
+			(polyline
+				(pts
+					(xy 0 2.54) (xy -0.254 1.778) (xy 0.508 1.778)
+				)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -28695,10 +28696,9 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy 0.2 1.8) (xy -0.3 1.45) (xy 0.1 1.1)
-				)
+			(circle
+				(center 0 0)
+				(radius 3.56)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -28817,7 +28817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28943,9 +28943,10 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 0 0)
-				(radius 3.56)
+			(polyline
+				(pts
+					(xy 0 2.54) (xy -0.254 1.778) (xy 0.508 1.778)
+				)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -28954,10 +28955,9 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy 0.2 1.8) (xy -0.3 1.45) (xy 0.1 1.1)
-				)
+			(circle
+				(center 0 0)
+				(radius 3.56)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -29076,7 +29076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29335,7 +29335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29594,7 +29594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-18-3"
+		(property "Footprint" "Library:Q_TO-18-3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29853,7 +29853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-18-3"
+		(property "Footprint" "Library:Q_TO-18-3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30112,7 +30112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30371,7 +30371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30630,7 +30630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30889,7 +30889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31148,7 +31148,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31407,7 +31407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31666,7 +31666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-18-3"
+		(property "Footprint" "Library:Q_TO-18-3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31925,7 +31925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-18-3"
+		(property "Footprint" "Library:Q_TO-18-3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32184,7 +32184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-18-3"
+		(property "Footprint" "Library:Q_TO-18-3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32443,7 +32443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-18-3"
+		(property "Footprint" "Library:Q_TO-18-3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32702,7 +32702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32961,7 +32961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-18-3"
+		(property "Footprint" "Library:Q_TO-18-3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33220,7 +33220,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33479,7 +33479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33605,9 +33605,10 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 0 0)
-				(radius 3.56)
+			(polyline
+				(pts
+					(xy 0 2.54) (xy -0.254 1.778) (xy 0.508 1.778)
+				)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -33616,10 +33617,9 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy 0.2 1.8) (xy -0.3 1.45) (xy 0.1 1.1)
-				)
+			(circle
+				(center 0 0)
+				(radius 3.56)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -33738,7 +33738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33864,9 +33864,10 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 0 0)
-				(radius 3.56)
+			(polyline
+				(pts
+					(xy 0 2.54) (xy -0.254 1.778) (xy 0.508 1.778)
+				)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -33875,10 +33876,9 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy 0.2 1.8) (xy -0.3 1.45) (xy 0.1 1.1)
-				)
+			(circle
+				(center 0 0)
+				(radius 3.56)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -33997,7 +33997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34515,7 +34515,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34762,7 +34762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:Q-1613"
+		(property "Footprint" "Library:Q_TO-205"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35021,7 +35021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TO-92_Inline"
+		(property "Footprint" "Library:Q_TO-92_Inline"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35280,7 +35280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:Q-GT402"
+		(property "Footprint" "Library:Q_TO-39"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35406,9 +35406,10 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 0 0)
-				(radius 3.56)
+			(polyline
+				(pts
+					(xy 0 2.54) (xy -0.254 1.778) (xy 0.508 1.778)
+				)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -35417,10 +35418,9 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy 0.2 1.8) (xy -0.3 1.45) (xy 0.1 1.1)
-				)
+			(circle
+				(center 0 0)
+				(radius 3.56)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -35539,7 +35539,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:Q-MP42B"
+		(property "Footprint" "Library:Q_TO-39"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35665,9 +35665,10 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 0 0)
-				(radius 3.56)
+			(polyline
+				(pts
+					(xy 0 2.54) (xy -0.254 1.778) (xy 0.508 1.778)
+				)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -35676,10 +35677,9 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy 0.2 1.8) (xy -0.3 1.45) (xy 0.1 1.1)
-				)
+			(circle
+				(center 0 0)
+				(radius 3.56)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -36316,7 +36316,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:R_10.16mm_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36473,7 +36473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:R_10.16mm_H"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36630,7 +36630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-14_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-14"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37003,7 +37003,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-16_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-16"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37412,7 +37412,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:DIP-8_W7.62mm"
+		(property "Footprint" "Library:IC_DIP-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37677,7 +37677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical"
+		(property "Footprint" "Library:Head_1x20_2.54m"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38158,7 +38158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x36_P2.54mm_Vertical"
+		(property "Footprint" "Library:Head_1x36_2.54m"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38927,7 +38927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SOC-TO5"
+		(property "Footprint" "Library:Q_TO-5"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39778,7 +39778,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TOG-1006"
+		(property "Footprint" "Library:SW_SPDT"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39965,7 +39965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TOG-1009"
+		(property "Footprint" "Library:SW_SPDT"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40152,7 +40152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TOG-1013"
+		(property "Footprint" "Library:SW_DPDT"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40417,7 +40417,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TOG-1015"
+		(property "Footprint" "Library:SW_DPDT"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40706,7 +40706,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TOG-2001"
+		(property "Footprint" "Library:SW_DPDT-Mini"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40971,7 +40971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TOG-2002"
+		(property "Footprint" "Library:SW_DPDT-Mini"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41236,7 +41236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TOG-2003"
+		(property "Footprint" "Library:SW_DPDT-Mini"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42175,7 +42175,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:VAC-1059"
+		(property "Footprint" "Library:VAC-1053"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

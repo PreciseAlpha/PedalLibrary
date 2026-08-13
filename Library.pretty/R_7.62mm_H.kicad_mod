@@ -1,0 +1,112 @@
+(footprint "R_7.62mm_H"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "1/4W axial resistor DIN0207-style body 6.3 x 2.5 mm, lead pitch 7.62 mm")
+	(property "Reference" "REF**"
+		(at 3.81 0 0)
+		(layer "F.SilkS")
+		(uuid "429c748d-fca8-4987-937f-2415d85738d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "R_7.62mm_H"
+		(at 3.81 3 0)
+		(layer "F.Fab")
+		(uuid "e07b8cfa-45c4-4780-b91e-0d98400064d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43fd6a09-3357-4921-b642-2c155c07ae95")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5766578-3089-48f9-92e2-6206cc79abe0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start 1.4 -1.25)
+		(end 6.2 1.25)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "f7e24a44-7c51-4715-92cb-2abe2240194b")
+	)
+	(fp_rect
+		(start -0.5 -1.75)
+		(end 8.12 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "9acdc1f4-58b9-4b7e-8781-3e81147ce589")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0.66 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7da5cacd-a790-41ce-8cc3-dc6422116d1c")
+	)
+	(fp_line
+		(start 6.96 0)
+		(end 7.62 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f383bbc6-9ccb-467d-828b-a89b702bda08")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2 2)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bf0f34dd-dbdc-44a8-b6ea-5741f80df301")
+	)
+	(pad "2" thru_hole circle
+		(at 7.62 0)
+		(size 2 2)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c1beda75-4e1c-48f6-a71e-3ce38d4f9664")
+	)
+	(embedded_fonts no)
+)

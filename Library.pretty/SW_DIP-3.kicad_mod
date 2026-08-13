@@ -1,0 +1,135 @@
+(footprint "SW_DIP-3"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "3-position through-hole DIP switch, 7.62mm row spacing")
+	(property "Reference" "REF**"
+		(at 0 -6.54 0)
+		(layer "F.SilkS")
+		(uuid "f28f53c4-4eb1-4ad0-98d0-11d33264c303")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_DIP-3"
+		(at 0 6.54 0)
+		(layer "F.Fab")
+		(uuid "6401bf24-7657-485c-9bef-ae42e01d2efd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb3f7155-e855-498c-b7a4-5e7bcec31103")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "acbdee71-8dd5-4db1-bc41-844510bb2f71")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -5 -4.54)
+		(end 5 4.54)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1bb3ff56-d03c-4f4b-8bc9-e9869d504f3e")
+	)
+	(fp_rect
+		(start -5.5 -5.04)
+		(end 5.5 5.04)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "de7af6b8-8dad-4612-b31f-4d3cba1bbe1d")
+	)
+	(pad "1" thru_hole circle
+		(at -3.81 -2.54)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1303030d-925d-42f3-a7e7-805e56bef868")
+	)
+	(pad "2" thru_hole circle
+		(at -3.81 0)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d16c270e-1659-4adc-8f06-081b27a6af68")
+	)
+	(pad "3" thru_hole circle
+		(at -3.81 2.54)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a9d9ec69-ea33-49a1-9889-9d34872b2351")
+	)
+	(pad "4" thru_hole circle
+		(at 3.81 2.54)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0b708fd1-0143-425a-a707-c93ec3815087")
+	)
+	(pad "5" thru_hole circle
+		(at 3.81 0)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "852f2c9d-5481-4190-80aa-d99daf9ff275")
+	)
+	(pad "6" thru_hole circle
+		(at 3.81 -2.54)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "97c0e834-a150-43ad-bc08-6eaa73bb09f9")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/DipSwitch3_Slide.step"
+		(offset
+			(xyz -3.8 2.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)

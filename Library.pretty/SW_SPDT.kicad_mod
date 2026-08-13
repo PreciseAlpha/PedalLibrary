@@ -1,0 +1,111 @@
+(footprint "SW_SPDT"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "SPDT PCB toggle switch, On/On")
+	(property "Reference" "REF**"
+		(at 0 -6 0)
+		(layer "F.SilkS")
+		(uuid "b9f318f6-45c9-4c3a-96ca-d52c48414b8d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_SPDT"
+		(at 0 6 0)
+		(layer "F.Fab")
+		(uuid "44e8fc32-722a-4d66-8714-df661617d58a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d00f2e83-0eed-4b5e-b93b-5150575008b4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee12354a-f32e-442d-9065-0d59aa86c7ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -6.5 -4)
+		(end 6.5 4)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "543f1d54-9f58-4e22-af10-4c1eb7adeb43")
+	)
+	(fp_rect
+		(start -7 -4.5)
+		(end 7 4.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "4b64427f-31e2-4e16-a800-721cceff0858")
+	)
+	(pad "1" thru_hole circle
+		(at -4.7 0)
+		(size 3.4 3.4)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "60a865b5-6a25-452a-bd1d-fac6bd9f36f4")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 3.4 3.4)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8a57a388-d12d-4c1c-bf40-d339ecda2498")
+	)
+	(pad "3" thru_hole circle
+		(at 4.7 0)
+		(size 3.4 3.4)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0820737c-12a0-4569-9761-ee34f77129bb")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/Switch_SPDT.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

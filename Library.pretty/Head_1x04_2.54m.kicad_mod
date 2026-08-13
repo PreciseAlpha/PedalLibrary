@@ -1,0 +1,109 @@
+(footprint "Head_1x04_2.54m"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "1x4 through-hole pin header, 2.54 mm pitch")
+	(tags "pin header 1x4 2.54mm THT")
+	(property "Reference" "J**"
+		(at 0 -2.33 0)
+		(layer "F.SilkS")
+		(uuid "cd0649ca-7579-47a2-97af-56016c8afce4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Head_1x04_2.54m"
+		(at 0 9.95 0)
+		(layer "F.Fab")
+		(uuid "e69a7286-a3ed-4c0a-9420-a0d0f3578d39")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb6da3d5-7244-4c16-8089-f9238a39eef4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b0c8513-b490-4a2b-802e-178d8c8ca25f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -1.33 -1.33)
+		(end 1.33 8.95)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "ed15745c-9a4c-49f2-8eca-6b16144bf034")
+	)
+	(fp_rect
+		(start -1.8 -1.8)
+		(end 1.8 9.42)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "0ab9d656-2d6d-48a5-ade2-9d2e5d96a749")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d76aa6f4-a0d1-4d47-bf3d-5704f02399d3")
+	)
+	(pad "2" thru_hole oval
+		(at 0 2.54)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e1cd995f-9553-4a1c-b997-f9ce46bcbda5")
+	)
+	(pad "3" thru_hole oval
+		(at 0 5.08)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "54023fb7-abd6-4066-b66a-5a201dc8ada7")
+	)
+	(pad "4" thru_hole oval
+		(at 0 7.62)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ae891f04-3e98-482f-a289-074d8df38123")
+	)
+	(embedded_fonts no)
+)

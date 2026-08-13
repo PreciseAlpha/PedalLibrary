@@ -1,0 +1,159 @@
+SKU,Item,Footprint,Confidence,Status
+RES-QW,1/4W Metal Film Resistor - 10 pack,Library:R_10.16mm_H,HIGH,local copy of KiCad 10.0.5 default footprint
+RES-QW-BAG,1/4W Metal Film Resistor - Bag of 200,Library:R_10.16mm_H,HIGH,local copy of KiCad 10.0.5 default footprint
+CAP-300B,Box Film Capacitors - 10 pack,Library:C_Rect_L7.0mm_W2.0mm_P5.00mm,HIGH,local copy of KiCad 10.0.5 default footprint
+CAP-E,Aluminum Electrolytic Capacitor - General Purpose - 10 pack,Library:CAP-E,REVIEW,generic D<=10mm / P2.5mm prototype footprint; choose exact capacitor footprint for production
+CAP-MLC,MLCC Ceramic Capacitor - 10 pack,Library:C_Disc_D5.0mm_W2.5mm_P5.00mm,HIGH,local copy of KiCad 10.0.5 default footprint
+CAP-300-,Metal Film Capacitors - 50V - 10 pack,Library:C_Rect_L7.0mm_W2.0mm_P5.00mm,HIGH,local copy of KiCad 10.0.5 default footprint
+CAP-A,Aluminum Electrolytic Capacitor - Audio Grade - 10 pack,Library:CAP-A,REVIEW,generic D<=10mm / P2.5mm prototype footprint; choose exact capacitor footprint for production
+CAP-303,Ceramic Disk Capacitors - 10 pack,Library:C_Disc_D5.0mm_W2.5mm_P5.00mm,HIGH,local copy of KiCad 10.0.5 default footprint
+CAP-EBP-,Aluminum Electrolytic Capacitor - Non-Polarized - 10 pack,Library:CAP-EBP,REVIEW,generic D<=10mm / P2.5mm prototype footprint; choose exact capacitor footprint for production
+DI-G-1017,1N34A - Germanium Diode,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-G-D9B,D9B - NOS Soviet Germanium Diode,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1027,1N5817 - Schottky Diode - 10 pack,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1004,1N4148 - Small Signal Diode - 10 pack,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1000,1N914 - Small Signal Diode - 10 pack,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-G-D9G,D9G - NOS Soviet Germanium Diode,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-G-D9J,D9J - NOS Soviet Germanium Diode,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-G-D9K,D9K - NOS Soviet Germanium Diode,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-G-1015,1N60 - Germanium Diode,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1010,1N4001 - Rectifier Diode - 10 pack,Library:D_DO-41_SOD81_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-G-D2J,D2J - NOS Soviet Germanium Diode,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-G-D9E,D9E - NOS Soviet Germanium Diode,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-G-D9V,D9V - NOS Soviet Germanium Diode,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1029,BAT41 - Schottky Diode - 10 Pack,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1034,BAS33 - Small Signal Diode - 10 pack,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1011,1N4002 - Rectifier Diode - 10 pack,Library:D_DO-41_SOD81_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1019,1N4004 - Rectifier Diode - 10 pack,Library:D_DO-41_SOD81_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1031,1N60P - Schottky Diode - 10 Pack,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1028,1N5819 - Schottky Diode - 10 pack,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1032,1N5227B - Zener Diode 3.6V - 10 pack,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+DI-1036,BAV21 - Small Signal Diode - 10 pack,Library:D_DO-35_SOD27_H,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1000,2N5088 - NPN Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1028,2N5089 - NPN Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1073,2N5457 - JFET,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1017,2N3904 - NPN Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1201,J201 - JFET Transistor - SMT to TO92,Library:SOT-23,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1016,BS170 - MOSFET Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1046,2N5458 - JFET,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1004,2N5087 - PNP Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1071,2N2222A - NPN Transistor - NOS,Library:Q_TO-18-3,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1058,BC108B - NPN Transistor,Library:Q_TO-18-3,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-GT402,GT402 PNP Germanium Transistor,Library:Q_TO-39,REVIEW,custom universal metal-can footprint; VERIFY pin order and lead circle before PCB fabrication
+Q-1057,BC109 - NPN Transistor,Library:Q_TO-18-3,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-S-0201,MMBFJ201 - JFET,Library:SOT-23,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1113,J113 - JFET,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1022,2N4401 - NPN Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1613,2N1613 - NPN Transistor,Library:Q_TO-205,REVIEW,custom footprint; verify against purchased revision before manufacturing
+Q-1202,J202 - JFET,Library:Q_TO-92_Inline,HIGH,mapped to standard TO-92 package
+Q-MP42B,MP42B PNP Germanium Transistor,Library:Q_TO-39,REVIEW,custom universal metal-can footprint; VERIFY pin order and lead circle before PCB fabrication
+Q-1079,MPS8599 - PNP Transistor,Library:Q_TO-92_Inline,HIGH,mapped to standard TO-92 package
+Q-1077,MPS751 - PNP Transistor,Library:Q_TO-92_Inline,HIGH,mapped to standard TO-92 package
+Q-1041,MPSA18 - NPN Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1043,2N7000 - MOSFET Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1059,BC108 - NPN Transistor - NOS TI,Library:Q_TO-18-3,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1070,BC549C - NPN Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1011,MPSA13 - NPN Darlington Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1019,2N3906 - PNP Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-5102,PF5102 - JFET,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1015,BC550B - NPN Transistor - NOS,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1060,BC109C - NPN Transistor,Library:Q_TO-18-3,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1030,BC108C - NPN Transistor,Library:Q_TO-18-3,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1021,2N4125 - PNP Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-S-5457,MMBF5457 - JFET,Library:SOT-23,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1031,BC108 - NPN Transistor - NOS CDIL,Library:Q_TO-18-3,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1055,BC183B - NPN Transistor - NOS TI,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1036,2SC1815GR - NPN Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+Q-1039,BC549B - NPN Transistor,Library:Q_TO-92_Inline,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1064,TL072IP - Dual Op-Amp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1154,TL072CP - Dual Op-Amp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1092,JRC4558D - Dual Op-Amp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1094,PT2399 - Digital Delay IC,Library:IC_DIP-16,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1048,RC4558P - Dual Op-Amp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1101,TL071 - Op-Amp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1040,NE5532P - Dual Op-Amp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1180,JRC4580D - Dual OpAmp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1032,V3102D - BBD Clock IC,Library:IC_DIP-8,HIGH,mapped to 8-pin DIP form used by listed through-hole part
+IC-400-1115,LT1054 - Charge Pump IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1150,FV-1 Spin Multi-Effects IC,Library:IC_SOIC-28,REVIEW,custom SOIC-28 footprint based on FV-1 package family; verify body width before manufacturing
+IC-400-1060,LM833N - Dual Op-Amp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1136,Belton BTDR-2H - Reverb IC,Library:IC_BTDR-2H,REVIEW,custom BTDR-2H module footprint; VERIFY pin spacing/orientation against module revision
+IC-400-1100,OPA2134PA - Precision Dual OpAmp,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1197,LM13700N - Dual Transconductance Op-Amp IC,Library:IC_DIP-16,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1095,LM386N-3 - Power Amplifier IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1050,LM324N - Quad Op-Amp IC,Library:IC_DIP-14,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1085,CAT24C32LI-G - EEPROM IC,Library:IC_DIP-8,HIGH,mapped to 8-pin DIP form used by listed through-hole part
+IC-400-1041,CD4046BE - Phase Locked Loop,Library:IC_DIP-16,HIGH,mapped to PDIP-16
+IC-400-1046,CD4013BE - Dual Flip-Flop IC,Library:IC_DIP-14,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1080,NE555P - Timer IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1189,LM386N-1 - Power Amplifier IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1093,CA3080AE - Transconductance Opamp,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1134,V2164D - Quad VCA IC,Library:IC_DIP-16,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1139,24LC32A/P - EEPROM IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1049,LM311N - Comparator IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-3005,MN3005 - BBD IC,Library:IC_DIP-14,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-4106,CD40106BE - Hex Schmitt-Trigger Inverters,Library:IC_DIP-14,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1170,CD4027BE - CMOS Dual Flip-Flop IC,Library:IC_DIP-16,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-3101,CT3101 - BBD Clock IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-3009,MN3009 - BBD IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1162,TC7662BCPA - Charge Pump IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1022,CD4044BE - CMOS Quad NAND IC,Library:IC_DIP-16,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1090,LM380N - Power Amplifier IC,Library:IC_DIP-14,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1031,V2153M - Sound Enhancement Processor IC,Library:IC_DMP-20,REVIEW,custom DMP-20 approximation; VERIFY datasheet dimensions before manufacturing
+IC-400-1196,JRC3404AD - Dual OpAmp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1199,TL052CP - Dual Op-Amp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1198,LM301AH - Military Grade OpAmp,Library:Q_TO-99-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1168,LTC1044CS8 - Voltage Regulator IC,Library:IC_SOIC-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1061,CD4007CN - Triple Buffer/Line Driver IC,Library:IC_DIP-14,HIGH,mapped to PDIP-14
+IC-400-1056,TL062CP - Dual Op-Amp IC,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1052,CD4069UBE - Hex Inverter - NOS,Library:IC_DIP-14,HIGH,local copy of KiCad 10.0.5 default footprint
+IC-400-1051,MC1496P - Modulator/Demodulator IC - NOS Motorola,Library:IC_DIP-14,HIGH,mapped to PDIP-14
+POT-41-,16mm Potentiometer - Short PCB Leg,Library:POT-16,REVIEW,"custom 16mm pot footprint, 5.0mm terminal pitch; verify support-tab positions"
+POT-42-,16mm Potentiometer - Tall PCB Leg,Library:POT-42,REVIEW,"custom 16mm pot footprint, 5.0mm terminal pitch; verify support-tab positions"
+POT-41-DG,16mm Dual Gang Potentiometer - Short PCB Leg,Library:POT-16-DG,REVIEW,custom dual-gang 16mm pot footprint; verify row spacing
+POT-41-C,16mm Potentiometer - Short PCB Leg - Center Detent,Library:POT-16-C,REVIEW,"custom 16mm pot footprint, 5.0mm terminal pitch; verify support-tab positions"
+POT-AL-41,16mm Potentiometer - Short PCB Leg - ALPHA,Library:POT-AL-41,REVIEW,"custom 16mm pot footprint, 5.0mm terminal pitch; verify support-tab positions"
+POT-RAT-16mm,16mm Potentiometer - RAT,Library:POT-RAT-16mm,REVIEW,"custom 16mm pot footprint, 5.0mm terminal pitch; verify support-tab positions"
+POT-RAT-24mm,24mm Potentiometer - RAT,Library:POT-RAT-24mm,REVIEW,custom 24mm pot footprint; verify mounting/support features
+POT-REHX,16mm Potentiometer - EHX Russian,Library:POT-REHX,REVIEW,"custom 16mm pot footprint, 5.0mm terminal pitch; verify support-tab positions"
+POT-42-C,16mm Potentiometer - Tall PCB Leg - Center Detent,Library:POT-42-C,REVIEW,"custom 16mm pot footprint, 5.0mm terminal pitch; verify support-tab positions"
+POT-09-K,9mm Potentiometer - Knurled Shaft,Library:POT-09-K,REVIEW,custom 9mm snap-in pot footprint; verify support-tab spacing
+FAD-30mm-,30mm Slide Potentiometer,Library:SW_FAD-30mm,REVIEW,custom 30mm slide-pot footprint; VERIFY exact pin and mounting-hole locations
+TRIM-3362-,Trim Pot 3362P Cermet,Library:TRIM-3362,HIGH,custom 3362P footprint based on standard package pattern
+TRIM-3362M-,Trim Pot 3362M Cermet,Library:TRIM-3362M,HIGH,custom 3362M footprint based on standard package pattern
+LED-5mm-D,5mm LED - Diffused - Pack of 10,Library:D_LED_5,HIGH,local copy of KiCad 10.0.5 default footprint
+LED-5mm-WC-,5mm LED - Waterclear - 10 Pack,Library:D_LED_5,HIGH,local copy of KiCad 10.0.5 default footprint
+LED-5mm-M-,5mm LED - Multi Color - 10 Pack,Library:D_LED_5,HIGH,local copy of KiCad 10.0.5 default footprint
+LED-1000-100,3mm Mini Bulb,Library:D_LED_3,HIGH,local copy of KiCad 10.0.5 default footprint
+LED-3mm-WC,3mm LED - Waterclear - 10 Pack,Library:D_LED_3,HIGH,local copy of KiCad 10.0.5 default footprint
+LED-3mm-D,3mm LED - Diffused - 10 Pack,Library:D_LED_3,HIGH,local copy of KiCad 10.0.5 default footprint
+LED-1000-103-MC,3mm LED - Multi Color - 10 Pack,Library:D_LED_3,HIGH,local copy of KiCad 10.0.5 default footprint
+LDR-P9203,9203 CdS LDR,Library:D_LDR,REVIEW,"custom LDR footprint; 5.08mm lead spacing, verify body diameter"
+VAC-1053,VTL5C3 - Vactrol/Optocoupler,Library:VAC-1053,REVIEW,custom VTL5C3/VTL5C9 family footprint; verify pin numbering against device
+VAC-1059,VTL5C9 - Vactrol/Optocoupler,Library:VAC-1053,REVIEW,custom VTL5C3/VTL5C9 family footprint; verify pin numbering against device
+JACK-1012,"1/4"" TS Jack - PCB Mount - NMJ4HCD2",Library:J_NMJ4HCD2,REVIEW,custom mechanical approximation for NMJ4HCD2; symbol currently exposes 2 nets only — VERIFY full switch-contact pinout before production
+JACK-1013,"1/4"" TRS Jack - PCB Mount - NMJ6HCD2",Library:J_NMJ6HCD2,REVIEW,custom mechanical approximation for NMJ6HCD2; symbol currently exposes 3 nets only — VERIFY switch-contact pinout before production
+DC-1001,DC Power Jack 2.1mm - PCB Mount,Library:J_DC,REVIEW,custom generic 2.1mm PCB DC jack footprint; VERIFY exact pin centers for StompBoxParts revision
+SOC-DIP8,DIP8 IC Socket - 8 Pin,Library:IC_DIP-8,HIGH,local copy of KiCad 10.0.5 default footprint
+SOC-TO5,TO5 Transistor Socket - 3 Pin,Library:SOC-TO5,REVIEW,custom TO-5/TO-18 3-pin socket footprint; verify socket pin circle
+SOC-DIP16,DIP16 IC Socket - 16 Pin,Library:IC_DIP-16,HIGH,local copy of KiCad 10.0.5 default footprint
+SOC-DIP14,DIP14 IC Socket - 14 Pin,Library:IC_DIP-14,HIGH,local copy of KiCad 10.0.5 default footprint
+SOC-SIP36,SIP36 - 36 Pin Snappable In-line Socket,Library:Head_1x36_2.54m,HIGH,local copy of KiCad 10.0.5 default footprint
+SOC-PH-20,Pin Header Socket - 20 pin,Library:Head_1x20_2.54m,HIGH,local copy of KiCad 10.0.5 default footprint
+FSW-1028,3PDT Footswitch PRO - PCB Pin,Library:SW_3PDT,REVIEW,"custom 3PDT PCB-pin footprint, 5.08mm grid; verify vendor orientation before production"
+FSW-1018,3PDT Footswitch - PCB Pin - Alpha,Library:SW_3PDT,REVIEW,"custom 3PDT PCB-pin footprint, 5.08mm grid; verify vendor orientation before production"
+TOG-1006,SPDT Toggle Switch ON/ON - PCB Pin,Library:SW_SPDT,REVIEW,custom mini-toggle PCB footprint; verify terminal pitch
+TOG-1009,SPDT Toggle Switch ON/OFF/ON - PCB Pin,Library:SW_SPDT,REVIEW,custom mini-toggle PCB footprint; verify terminal pitch
+TOG-1013,DPDT Toggle Switch ON/ON - PCB Pin,Library:SW_DPDT,REVIEW,custom mini-toggle PCB footprint; verify row/column pitch
+TOG-1015,DPDT Toggle Switch ON/ON/ON - PCB Pin,Library:SW_DPDT,REVIEW,custom mini-toggle PCB footprint; verify row/column pitch
+DSW-1002,DIP Switch - 2 Position,Library:SW_DIP-2,HIGH,"custom standard DIP-switch footprint, 2.54mm pitch / 7.62mm row spacing"
+DSW-1003,DIP Switch - 3 Position,Library:SW_DIP-3,HIGH,"custom standard DIP-switch footprint, 2.54mm pitch / 7.62mm row spacing"
+DSW-1004,DIP Switch - 4 Position,Library:SW_DIP-4,HIGH,"custom standard DIP-switch footprint, 2.54mm pitch / 7.62mm row spacing"
+DSW-1006,DIP Switch - 6 Position,Library:SW_DIP-6,HIGH,"custom standard DIP-switch footprint, 2.54mm pitch / 7.62mm row spacing"
+DSW-1012,DIP Switch - 12 Position,Library:SW_DIP-12,HIGH,"custom standard DIP-switch footprint, 2.54mm pitch / 7.62mm row spacing"
+IND-ME6,Wah Inductor ME-6,Library:IND_ME6,HIGH,custom footprint using StompBoxParts stated 14.4mm lead spacing
+T-1001,TY-141P - Transformer,Library:T-1001,REVIEW,custom TY-141P footprint using published body size; VERIFY center-tap/physical pin mapping before production
+T-1002,42TM018-RC - Transformer,Library:T-1002,REVIEW,custom 42TM018-RC footprint using published 22x17mm body; VERIFY 6-pin center-tap mapping before production
+TOG-2001,DPDT Sub Mini Toggle Switch - ON/OFF/ON - PCB Mount,Library:SW_DPDT-Mini,HIGH,Custom; dimensions from StompBoxParts listing
+TOG-2002,DPDT Sub Mini Toggle Switch - ON/ON - PCB Mount,Library:SW_DPDT-Mini,HIGH,Custom; dimensions from StompBoxParts listing
+TOG-2003,DPDT Sub Mini Toggle Switch - ON/ON/ON - PCB Mount,Library:SW_DPDT-Mini,HIGH,Custom; dimensions from StompBoxParts listing

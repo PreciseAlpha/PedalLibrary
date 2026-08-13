@@ -1,0 +1,144 @@
+(footprint "POT-16-C"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "16 mm short PCB-leg center-detent pot; RV16AF-41 mechanical family")
+	(property "Reference" "REF**"
+		(at 0 -10.3 0)
+		(layer "F.SilkS")
+		(uuid "371cff1e-0359-4d31-b440-307017abf645")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "POT-16-C"
+		(at 0 20.1 0)
+		(layer "F.Fab")
+		(uuid "94172bfd-3a85-4d21-94ce-70256362db5f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "595ef4f7-eae6-4987-a977-fa67f080ff9a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f3fc351-b499-43f0-b02c-9dbdb63dda2f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 0 0)
+		(end 3.5 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1d4436c9-f20b-41a0-b846-f1c906b3c710")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 8.25 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "f4b6ef5b-e74f-42a5-a879-38c7866a58ae")
+	)
+	(fp_rect
+		(start -9 -9)
+		(end 9 18.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "fbd66d06-0a76-415e-ae76-64333e9c79b6")
+	)
+	(fp_rect
+		(start -7 14.3)
+		(end 7 17.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a6fe570b-2e30-4595-945f-8f465d86d071")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 8.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "5b5896d7-4a2b-470e-a37f-231b240d20ee")
+	)
+	(pad "1" thru_hole circle
+		(at -5 16)
+		(size 2.3 2.3)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "34fcc942-72e5-4446-9e14-0a8fbfed3be2")
+	)
+	(pad "2" thru_hole circle
+		(at 0 16)
+		(size 2.3 2.3)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bfc053d3-a788-49c3-bd63-fb65a55c8f26")
+	)
+	(pad "3" thru_hole circle
+		(at 5 16)
+		(size 2.3 2.3)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cfd4d18a-dbf4-481c-a2e0-9bf864694461")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/Pot-41.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
