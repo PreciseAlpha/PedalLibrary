@@ -4,21 +4,138 @@
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "2N1613 TO-39 / TO-205AD 3-lead metal-can footprint")
-	(attr through_hole)
 	(property "Reference" "REF**"
 		(at 0 -6.75 0)
 		(layer "F.SilkS")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "1c40066e-5133-422f-aff6-3e761f1dfc37")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(property "Value" "Q-1613"
 		(at 0 6.75 0)
 		(layer "F.Fab")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "c3229dd6-a858-4055-826d-7194dec397ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
-	(fp_rect (start -4.75 -4.75) (end 4.75 4.75) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
-	(fp_rect (start -5.25 -5.25) (end 5.25 5.25) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
-	(fp_circle (center 0.00 0.00) (end 4.30 0.00) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
-	(pad "1" thru_hole circle (at 0.00 -2.54) (size 1.80 1.80) (drill 0.90) (layers "*.Cu" "*.Mask"))
-	(pad "2" thru_hole circle (at 2.20 1.27) (size 1.80 1.80) (drill 0.90) (layers "*.Cu" "*.Mask"))
-	(pad "3" thru_hole circle (at -2.20 1.27) (size 1.80 1.80) (drill 0.90) (layers "*.Cu" "*.Mask"))
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "21eda38b-676a-4d47-9ea0-152039149a1b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "527ddb32-4975-4a28-962b-6d8750363b31")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4.1 3.3)
+		(end -3.4 2.6)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "94624a28-0f46-44f5-a2c1-5c24602b9ea9")
+	)
+	(fp_line
+		(start -3.3 4.1)
+		(end -4.1 3.3)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "50b315ef-054d-495c-a9a6-d135560b90aa")
+	)
+	(fp_line
+		(start -2.6 3.4)
+		(end -3.3 4.1)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "87e4fe4a-ee2d-45c0-ab88-610eda73dfd4")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 4.3 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "e2c5db16-6bf4-4df5-a511-e74d83a87502")
+	)
+	(fp_rect
+		(start -5.25 -5.25)
+		(end 5.25 5.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "2b08fdc5-be5a-41b5-9ce7-eb4fbac2520b")
+	)
+	(pad "1" thru_hole circle
+		(at -2.54 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "98db65fa-b1b2-4d33-bbe5-ef97be2a06ee")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -2.54)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d2b525cf-bbcf-4a23-8d40-7d6fabc2ef5f")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c6488e61-8c6f-4c63-ad65-2f32e8a96842")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/TO-39.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

@@ -4,21 +4,116 @@
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "2-position through-hole DIP switch, 7.62mm row spacing")
-	(attr through_hole)
 	(property "Reference" "REF**"
-		(at 0 -5.50 0)
+		(at 0 -5.5 0)
 		(layer "F.SilkS")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "62a481fe-6922-4bf6-aabf-57b8a3fb4f5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(property "Value" "DSW-1002"
-		(at 0 5.50 0)
+		(at 0 5.5 0)
 		(layer "F.Fab")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "4d515c5a-872b-4ebf-b0a3-1cd60153b64b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
-	(fp_rect (start -5.00 -3.50) (end 5.00 3.50) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
-	(fp_rect (start -5.50 -4.00) (end 5.50 4.00) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
-	(pad "1" thru_hole circle (at -3.81 -1.27) (size 1.80 1.80) (drill 0.90) (layers "*.Cu" "*.Mask"))
-	(pad "4" thru_hole circle (at 3.81 -1.27) (size 1.80 1.80) (drill 0.90) (layers "*.Cu" "*.Mask"))
-	(pad "2" thru_hole circle (at -3.81 1.27) (size 1.80 1.80) (drill 0.90) (layers "*.Cu" "*.Mask"))
-	(pad "3" thru_hole circle (at 3.81 1.27) (size 1.80 1.80) (drill 0.90) (layers "*.Cu" "*.Mask"))
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98e4773c-87f6-4764-b7b7-490edf75e341")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b8bce037-a9f5-4d2f-823a-051977780d2c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -5 -3.5)
+		(end 5 3.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "76eac05f-bdb6-4dd0-b523-b13164ac6ec1")
+	)
+	(fp_rect
+		(start -5.5 -4)
+		(end 5.5 4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a2fa0063-91ad-47ba-9647-1c96d9e25848")
+	)
+	(pad "1" thru_hole circle
+		(at -3.81 -1.27)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "94e4b3de-2585-4a68-bb03-85edcc409f18")
+	)
+	(pad "2" thru_hole circle
+		(at -3.81 1.27)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1b8f5017-d1b5-4e18-87be-ddcaa546f897")
+	)
+	(pad "3" thru_hole circle
+		(at 3.81 1.27)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "db1b8879-0109-497d-9d60-610f6f4a9c1e")
+	)
+	(pad "4" thru_hole circle
+		(at 3.81 -1.27)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5085bb28-b1d1-415b-8c96-ec24bac4c28e")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/DipSwitch2_Slide.step"
+		(offset
+			(xyz -3.8 1.2 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
 )

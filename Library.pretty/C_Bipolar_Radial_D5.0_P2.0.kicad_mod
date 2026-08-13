@@ -4,19 +4,100 @@
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Radial electrolytic D5.0 mm, pitch 2.0 mm, height 11.0 mm")
-	(attr through_hole)
 	(property "Reference" "REF**"
 		(at 0 -4.5 0)
 		(layer "F.SilkS")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "b8121659-dfd7-4c03-94bc-cd16c9c098fa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(property "Value" "C_Bipolar_Radial_D5.0_P2.0"
 		(at 0 4.5 0)
 		(layer "F.Fab")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "c79b1965-5245-4228-b0d3-75886b215fb1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
-	(fp_circle (center 0.000 0.000) (end 2.500 0.000) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
-	(fp_circle (center 0.000 0.000) (end 2.750 0.000) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
-	(pad "1" thru_hole rect (at -1.000 0.000) (size 2.000 2.000) (drill 0.900) (layers "*.Cu" "*.Mask"))
-	(pad "2" thru_hole circle (at 1.000 0.000) (size 2.000 2.000) (drill 0.900) (layers "*.Cu" "*.Mask"))
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb738100-b981-420b-a1eb-22391378f7e0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8eabc975-c987-42c0-a6ee-75dc5ee5cc4a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 0 0)
+		(end 2.5 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "0a6754c3-428e-4f79-b83e-7e6123841e94")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.75 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a615d702-610a-4ca8-95ea-95f51d2a86a0")
+	)
+	(pad "1" thru_hole rect
+		(at -1 0)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "097417dc-ff35-4798-bc36-aae02d048d34")
+	)
+	(pad "2" thru_hole circle
+		(at 1 0)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5057f8fa-f401-4ed9-ab1d-9eb5933d9e4f")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/C_Radial_D5.0mm_H5.0mm_P2.00mm.step"
+		(offset
+			(xyz -1 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

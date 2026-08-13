@@ -4,22 +4,137 @@
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Neutrik NMJ4HCD2 exact PCB hole layout from Neutrik ST-NMJ4HCD2 drawing; component side; switched TS, 4 contacts")
-	(attr through_hole)
 	(property "Reference" "REF**"
 		(at -11.8 -11.2 0)
 		(layer "F.SilkS")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "61ef397e-ec38-4bd8-80a8-410dac5c0463")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(property "Value" "JACK-1012"
 		(at -11.8 11.2 0)
 		(layer "F.Fab")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "9314b498-4d88-4d82-ac90-7e4f7667c631")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
-	(fp_rect (start -23.530 -9.100) (end 0.000 9.100) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
-	(fp_rect (start -24.030 -9.600) (end 0.500 9.600) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
-	(fp_line (start 0.000 -10.000) (end 0.000 10.000) (stroke (width 0.2) (type solid)) (layer "F.Fab"))
-	(pad "1" thru_hole rect (at -16.700 8.115) (size 2.400 2.400) (drill 1.400) (layers "*.Cu" "*.Mask"))
-	(pad "2" thru_hole circle (at -16.700 -8.115) (size 2.400 2.400) (drill 1.400) (layers "*.Cu" "*.Mask"))
-	(pad "3" thru_hole circle (at -4.000 8.115) (size 2.400 2.400) (drill 1.400) (layers "*.Cu" "*.Mask"))
-	(pad "4" thru_hole circle (at -4.000 -8.115) (size 2.400 2.400) (drill 1.400) (layers "*.Cu" "*.Mask"))
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ff069b2-16e5-4440-ae58-66f3ce692e62")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4863308c-3590-4f80-90f9-48e4c49ab645")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -23.53 -9.1)
+		(end 0 9.1)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2fd63f3e-7571-4c03-8f4f-9a18b19f1f89")
+	)
+	(fp_rect
+		(start 0 -9.1)
+		(end 2.9 9.1)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "9f871dab-64f2-43f9-afdf-c51f11653751")
+	)
+	(fp_rect
+		(start -24.03 -9.6)
+		(end 0.5 9.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "d67bacfd-8a85-452c-b210-2eb982af0a19")
+	)
+	(fp_line
+		(start 0 -10)
+		(end 0 10)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b8c20bfe-3752-4527-9bde-22a2707adc9f")
+	)
+	(pad "1" thru_hole rect
+		(at -16.7 8.115)
+		(size 2.8 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "aa0b73d6-917f-452b-8b40-57298ec8e03b")
+	)
+	(pad "2" thru_hole circle
+		(at -16.7 -8.115)
+		(size 2.8 2.8)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b0f7b0b7-d6bc-480b-a573-60194ea21730")
+	)
+	(pad "3" thru_hole circle
+		(at -4 8.115)
+		(size 2.8 2.8)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c01b336f-4015-4a9d-a0a1-f8fc5d3e6646")
+	)
+	(pad "4" thru_hole circle
+		(at -4 -8.115)
+		(size 2.8 2.8)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "30690af7-f67c-4ffb-b72e-d68fe6d6a065")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/JackMono.stp"
+		(offset
+			(xyz 0 0 8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
 )

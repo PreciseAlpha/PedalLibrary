@@ -1,12 +1,14 @@
 (footprint "DIP-8_W7.62mm"
 	(version 20260206)
-	(generator "kicad-footprint-generator")
+	(generator "pcbnew")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "8-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
 	(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 	(property "Reference" "REF**"
 		(at 3.81 -2.33 0)
 		(layer "F.SilkS")
+		(uuid "d01eed65-348f-4e06-8c2d-a43bb0cea336")
 		(effects
 			(font
 				(size 1 1)
@@ -17,6 +19,7 @@
 	(property "Value" "DIP-8_W7.62mm"
 		(at 3.81 9.95 0)
 		(layer "F.Fab")
+		(uuid "7977fffc-781e-4775-add9-763ba1f62a6d")
 		(effects
 			(font
 				(size 1 1)
@@ -24,10 +27,33 @@
 			)
 		)
 	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4e603cb6-cc54-4076-8ecf-1d27c8e8b286")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ebda2f98-cc3c-414e-82f0-d8cf199662bf")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
 	(property "KiLib_Generator" "package/DIP/legacy"
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
+		(uuid "6a780435-ceed-43a0-892e-7d855089ea50")
 		(effects
 			(font
 				(size 1 1)
@@ -45,6 +71,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+		(uuid "c139c899-57bc-4411-9bff-61434e0348bc")
 	)
 	(fp_line
 		(start 1.16 8.95)
@@ -54,6 +81,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+		(uuid "d9df5bed-6fd9-47ff-b5f3-d244f0b16cd4")
 	)
 	(fp_line
 		(start 2.81 -1.33)
@@ -63,6 +91,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+		(uuid "a4a71784-1b65-4883-a013-9c22454370c7")
 	)
 	(fp_line
 		(start 6.46 -1.33)
@@ -72,6 +101,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+		(uuid "6154180b-8abe-4cb8-b31b-56310cf4e3fd")
 	)
 	(fp_line
 		(start 6.46 8.95)
@@ -81,6 +111,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+		(uuid "c8e79555-a69e-4778-b214-487ed67a379e")
 	)
 	(fp_arc
 		(start 4.81 -1.33)
@@ -91,6 +122,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+		(uuid "cc857838-fbd9-4715-86d8-4c31f9c28418")
 	)
 	(fp_rect
 		(start -1.06 -1.52)
@@ -101,6 +133,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
+		(uuid "71e7c2b0-0977-4e5c-9c9c-dd5e44ebd235")
 	)
 	(fp_line
 		(start 0.635 -0.27)
@@ -110,6 +143,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
+		(uuid "e60105b8-9947-4d6e-9673-70728751bd5c")
 	)
 	(fp_line
 		(start 0.635 8.89)
@@ -119,6 +153,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
+		(uuid "df7bd6aa-598b-4e63-9418-784ad55a14ef")
 	)
 	(fp_line
 		(start 1.635 -1.27)
@@ -128,6 +163,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
+		(uuid "1be87dd5-cb99-454d-977f-dd19c2a232d3")
 	)
 	(fp_line
 		(start 6.985 -1.27)
@@ -137,6 +173,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
+		(uuid "40ab2ab8-4a93-4e7e-99a9-3d939abc9719")
 	)
 	(fp_line
 		(start 6.985 8.89)
@@ -146,16 +183,24 @@
 			(type solid)
 		)
 		(layer "F.Fab")
+		(uuid "cfed7ad8-4c5a-430c-ad23-e6ce2a4c9d49")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 3.81 3.81 90)
 		(layer "F.Fab")
+		(uuid "f9150d1d-8c4a-410b-8390-9d0c3f83c765")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
 		)
+	)
+	(point
+		(at 3.81 3.81)
+		(size 1.27)
+		(layer "F.Fab")
+		(uuid "57428cb6-a363-4230-97e7-cd074a8df6ea")
 	)
 	(pad "1" thru_hole roundrect
 		(at 0 0)
@@ -164,6 +209,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15625)
+		(uuid "c3b87870-fae6-40af-a90d-1b6e8aad1d27")
 	)
 	(pad "2" thru_hole circle
 		(at 0 2.54)
@@ -171,6 +217,7 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(uuid "dc8d038f-b057-4ccf-8f9f-cacf615e760a")
 	)
 	(pad "3" thru_hole circle
 		(at 0 5.08)
@@ -178,6 +225,7 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(uuid "c1e84ce2-0c1a-439a-bef8-2e10874123b7")
 	)
 	(pad "4" thru_hole circle
 		(at 0 7.62)
@@ -185,6 +233,7 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(uuid "0c343893-e6e7-4037-b71d-2adc498a7017")
 	)
 	(pad "5" thru_hole circle
 		(at 7.62 7.62)
@@ -192,6 +241,7 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(uuid "e94cf76f-35a1-4718-be37-6c9d9101b4e7")
 	)
 	(pad "6" thru_hole circle
 		(at 7.62 5.08)
@@ -199,6 +249,7 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(uuid "9921f0e2-c006-4d9c-b3a7-09f5b9b966b9")
 	)
 	(pad "7" thru_hole circle
 		(at 7.62 2.54)
@@ -206,6 +257,7 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(uuid "31a22627-fa9d-43a1-bc75-d6149cbc6cd4")
 	)
 	(pad "8" thru_hole circle
 		(at 7.62 0)
@@ -213,14 +265,10 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-	)
-	(point
-		(at 3.81 3.81)
-		(size 1.27)
-		(layer "F.Fab")
+		(uuid "bab814da-c2e1-4d47-921c-f56fd2a693ba")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.step"
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/DIP-8_Socket.step"
 		(offset
 			(xyz 0 0 0)
 		)

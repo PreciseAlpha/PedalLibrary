@@ -4,19 +4,100 @@
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "StompBoxParts box film capacitor body 7.2 x 3.5 mm, lead pitch 5.0 mm, height 7.5 mm")
-	(attr through_hole)
 	(property "Reference" "REF**"
 		(at 0 -3.75 0)
 		(layer "F.SilkS")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "414bdd32-bfd3-450d-9fb3-a9ab9a43bdc5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(property "Value" "C_Box_7.2x3.5_P5.00"
 		(at 0 3.75 0)
 		(layer "F.Fab")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "c39b8278-2928-4285-abb7-910581f87a2e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
-	(fp_rect (start -3.600 -1.750) (end 3.600 1.750) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
-	(fp_rect (start -3.850 -2.000) (end 3.850 2.000) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
-	(pad "1" thru_hole rect (at -2.500 0.000) (size 1.800 1.800) (drill 0.800) (layers "*.Cu" "*.Mask"))
-	(pad "2" thru_hole circle (at 2.500 0.000) (size 1.800 1.800) (drill 0.800) (layers "*.Cu" "*.Mask"))
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "166ca3be-d4ba-4c8f-a372-0b71fc6b7119")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "387a26f8-f043-4452-805d-8fc8dd864bf6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -3.6 -1.75)
+		(end 3.6 1.75)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "987147a3-a73b-4e08-8a6b-bffa1658680a")
+	)
+	(fp_rect
+		(start -3.85 -2)
+		(end 3.85 2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "c0b4dd46-5c62-4aa0-9095-9ddeaa8199c6")
+	)
+	(pad "1" thru_hole rect
+		(at -2.5 0)
+		(size 1.8 1.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "86531209-9da0-4088-abf4-20c41fbfcc08")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 1.8 1.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ef0bcd32-5c3c-4563-a686-d450abb71dbf")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2.step"
+		(offset
+			(xyz -2.5 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

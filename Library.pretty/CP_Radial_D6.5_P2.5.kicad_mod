@@ -4,21 +4,120 @@
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Radial electrolytic D6.5 mm, pitch 2.5 mm, height 12.5 mm")
-	(attr through_hole)
 	(property "Reference" "REF**"
 		(at 0 -5.25 0)
 		(layer "F.SilkS")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "b860fadd-654a-4255-bf28-abe00a49990b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(property "Value" "CP_Radial_D6.5_P2.5"
 		(at 0 5.25 0)
 		(layer "F.Fab")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "526ee73a-536c-4ad5-85ee-bdfc7a3029fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
-	(fp_circle (center 0.000 0.000) (end 3.250 0.000) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
-	(fp_circle (center 0.000 0.000) (end 3.500 0.000) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
-	(fp_line (start -2.550 -0.500) (end -2.550 0.500) (stroke (width 0.2) (type solid)) (layer "F.SilkS"))
-	(fp_line (start -3.050 0.000) (end -2.050 0.000) (stroke (width 0.2) (type solid)) (layer "F.SilkS"))
-	(pad "1" thru_hole rect (at -1.250 0.000) (size 2.000 2.000) (drill 0.900) (layers "*.Cu" "*.Mask"))
-	(pad "2" thru_hole circle (at 1.250 0.000) (size 2.000 2.000) (drill 0.900) (layers "*.Cu" "*.Mask"))
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2772785b-7340-4640-8281-adb30417e663")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61a7578d-bec7-4025-a932-0a7395d4cf10")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.5 -2.75)
+		(end -2.5 -2.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7afc8347-f4fc-48b8-a6bc-c9e6c3cd7639")
+	)
+	(fp_line
+		(start -3 -3.25)
+		(end -3 -2.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c2bc6215-fb56-4057-b5f9-dce47db05686")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3.25 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "ff377de8-be18-4be5-8a4b-6f551d612c5e")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3.5 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "b5d217e6-7971-486f-acf3-e16732f0a1bc")
+	)
+	(pad "1" thru_hole rect
+		(at -1.25 0)
+		(size 2 2)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d71175f2-f641-45f5-afdb-22f2951045b9")
+	)
+	(pad "2" thru_hole circle
+		(at 1.25 0)
+		(size 2 2)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "821f03d0-b11b-4823-aac3-7b4bb3a2ea04")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/CP_Radial_D6.3mm_P2.50mm.step"
+		(offset
+			(xyz -1.2 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

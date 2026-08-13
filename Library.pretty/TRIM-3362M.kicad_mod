@@ -4,21 +4,119 @@
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "3362M vertical cermet trimmer; 7.0 x 6.8 mm body")
-	(attr through_hole)
 	(property "Reference" "REF**"
-		(at 0.00 -5.30 0)
+		(at 0 -4 0)
 		(layer "F.SilkS")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "e35e0286-d76a-43ee-8804-e90dcb49a238")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(property "Value" "TRIM-3362M"
-		(at 0.00 5.30 0)
+		(at 0 4 0)
 		(layer "F.Fab")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "bf7ab69c-524c-4c83-90da-e53b49103b97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
-	(fp_rect (start -3.50 -3.40) (end 3.50 3.40) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
-	(fp_rect (start -3.50 -3.40) (end 3.50 3.40) (stroke (width 0.10) (type solid)) (fill none) (layer "F.Fab"))
-	(fp_rect (start -4.00 -3.90) (end 4.00 3.90) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
-	(pad "1" thru_hole circle (at -2.54 0.00) (size 1.80 1.80) (drill 0.90) (layers "*.Cu" "*.Mask"))
-	(pad "2" thru_hole circle (at 0.00 2.54) (size 1.80 1.80) (drill 0.90) (layers "*.Cu" "*.Mask"))
-	(pad "3" thru_hole circle (at 2.54 0.00) (size 1.80 1.80) (drill 0.90) (layers "*.Cu" "*.Mask"))
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd113822-cca1-4ca3-9aa3-b6da3f38c765")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d172773d-7888-42d1-b2a0-44a5f6e63e53")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -3.5 -2.5)
+		(end 3.5 2.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "fd7f9cc6-8856-4cfb-b95c-ecbfbe10cf1f")
+	)
+	(fp_rect
+		(start -4 -3)
+		(end 4 3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a9ee844b-bf2f-46c1-9131-ff145fe67583")
+	)
+	(fp_rect
+		(start -3.5 -2.5)
+		(end 3.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "3e824b93-eb94-4975-bbce-6d8e97c05e07")
+	)
+	(pad "1" thru_hole circle
+		(at -2.54 0)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8e57d9a9-b6d2-41e2-81d0-f8996b2dfd96")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "281146ad-6f20-487a-b6ec-7797d9030d6a")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 0)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1c1c589d-cb66-431a-83c2-3e5bc70fa660")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/PotTrimM.stp"
+		(offset
+			(xyz 0 -2.4 4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -90 -0)
+		)
+	)
 )

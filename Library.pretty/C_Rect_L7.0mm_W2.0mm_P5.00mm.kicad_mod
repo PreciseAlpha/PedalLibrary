@@ -1,12 +1,14 @@
 (footprint "C_Rect_L7.0mm_W2.0mm_P5.00mm"
 	(version 20260206)
-	(generator "kicad-footprint-generator")
+	(generator "pcbnew")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "C, Rect series, Radial, pin pitch=5.00mm, length*width=7*2mm^2, Capacitor")
 	(tags "C Rect series Radial pin pitch 5.00mm length 7mm width 2mm Capacitor")
 	(property "Reference" "REF**"
 		(at 2.5 -2.25 0)
 		(layer "F.SilkS")
+		(uuid "60f08dec-a5bb-4405-951b-fc8eeebb6997")
 		(effects
 			(font
 				(size 1 1)
@@ -17,6 +19,7 @@
 	(property "Value" "C_Rect_L7.0mm_W2.0mm_P5.00mm"
 		(at 2.5 2.25 0)
 		(layer "F.Fab")
+		(uuid "eb38ebc8-95b9-4a0a-b794-ee478bef57e3")
 		(effects
 			(font
 				(size 1 1)
@@ -24,10 +27,33 @@
 			)
 		)
 	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "424fe01f-9a83-4fb3-ac72-83dde1efab43")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b642fd7-a12a-4c82-bfa6-17a810c22bc9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
 	(property "KiLib_Generator" "capacitor/THT/other"
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
+		(uuid "4001d9a0-bcdd-423e-a1a9-f7012547a301")
 		(effects
 			(font
 				(size 1 1)
@@ -45,6 +71,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+		(uuid "43cd8ee5-22e5-4d59-875f-53486e7e3516")
 	)
 	(fp_line
 		(start -1.12 1.12)
@@ -54,6 +81,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+		(uuid "f47b18ac-ed34-4597-9bc4-bc1f8874c70b")
 	)
 	(fp_line
 		(start 6.12 -1.12)
@@ -63,6 +91,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+		(uuid "d019487b-77ce-4907-a0d4-c29b44967c29")
 	)
 	(fp_line
 		(start 6.12 1.12)
@@ -72,6 +101,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+		(uuid "216344bd-9edd-4855-bcfd-f74dc469c775")
 	)
 	(fp_rect
 		(start -1.25 -1.25)
@@ -82,6 +112,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
+		(uuid "6c670851-397c-4f03-9011-c66d6ab5f2db")
 	)
 	(fp_rect
 		(start -1 -1)
@@ -92,10 +123,12 @@
 		)
 		(fill no)
 		(layer "F.Fab")
+		(uuid "e1b9f166-cbf0-49ad-841a-68555aeb57b4")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 2.5 0 0)
 		(layer "F.Fab")
+		(uuid "34e72c3f-378e-464b-ba4b-dbe886a762eb")
 		(effects
 			(font
 				(size 1 1)
@@ -109,6 +142,7 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(uuid "ba12cbdf-22cb-40ae-a5cf-5f51ee35b69e")
 	)
 	(pad "2" thru_hole circle
 		(at 5 0)
@@ -116,6 +150,7 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(uuid "dc6a38a7-0a8c-4eaf-a3f2-1ad4363b26b8")
 	)
 	(embedded_fonts no)
 	(model "${KICAD10_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.step"

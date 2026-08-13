@@ -3,21 +3,109 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
-	(descr "Mini SPDT PCB toggle switch, 4.7mm pin pitch")
-	(attr through_hole)
+	(descr "SPDT PCB toggle switch, On/Off/On")
 	(property "Reference" "REF**"
-		(at 0 -6.00 0)
+		(at 0 -6 0)
 		(layer "F.SilkS")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "fe3b40ab-aea5-4b65-b1f0-957fc3b1d94f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(property "Value" "TOG-1009"
-		(at 0 6.00 0)
+		(at 0 6 0)
 		(layer "F.Fab")
-		(effects (font (size 1 1) (thickness 0.15)))
+		(uuid "31bfe7b1-d6cd-41fa-b8dd-97e2b986fa10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
-	(fp_rect (start -6.50 -4.00) (end 6.50 4.00) (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS"))
-	(fp_rect (start -7.00 -4.50) (end 7.00 4.50) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
-	(pad "1" thru_hole circle (at -4.70 0.00) (size 2.40 2.40) (drill 1.20) (layers "*.Cu" "*.Mask"))
-	(pad "2" thru_hole circle (at 0.00 0.00) (size 2.40 2.40) (drill 1.20) (layers "*.Cu" "*.Mask"))
-	(pad "3" thru_hole circle (at 4.70 0.00) (size 2.40 2.40) (drill 1.20) (layers "*.Cu" "*.Mask"))
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "03ddf5a0-ee2b-42c1-b6a5-5be146229126")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c81aa8d-651c-4003-85b0-4da1b9a41b9d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -6.5 -4)
+		(end 6.5 4)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "849fc677-0faf-4435-a58e-6830446fe63c")
+	)
+	(fp_rect
+		(start -7 -4.5)
+		(end 7 4.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a372403a-6cbe-4711-a7a8-85db54955bc2")
+	)
+	(pad "1" thru_hole circle
+		(at -4.7 0)
+		(size 3.4 3.4)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7407e90f-7ffb-4ff9-8dd7-8dfd9220b1fb")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 3.4 3.4)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "82cdf93a-db31-470b-820e-a6116e473eb6")
+	)
+	(pad "3" thru_hole circle
+		(at 4.7 0)
+		(size 3.4 3.4)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b53c98cf-ea1a-4c64-8c5f-1a6aaba8cd71")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/Switch_SPDT.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
