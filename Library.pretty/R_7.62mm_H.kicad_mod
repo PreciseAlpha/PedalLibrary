@@ -7,7 +7,7 @@
 	(property "Reference" "REF**"
 		(at 3.81 0 0)
 		(layer "F.SilkS")
-		(uuid "429c748d-fca8-4987-937f-2415d85738d6")
+		(uuid "178a8515-4e17-439a-a705-8f2fdc3dbe28")
 		(effects
 			(font
 				(size 1 1)
@@ -18,7 +18,7 @@
 	(property "Value" "R_7.62mm_H"
 		(at 3.81 3 0)
 		(layer "F.Fab")
-		(uuid "e07b8cfa-45c4-4780-b91e-0d98400064d7")
+		(uuid "7f45a4a9-b201-4e82-a0e4-e84ec5de85b0")
 		(effects
 			(font
 				(size 1 1)
@@ -30,7 +30,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "43fd6a09-3357-4921-b642-2c155c07ae95")
+		(uuid "3472c406-b1f5-42f6-8a32-c55e5d4870f2")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -41,7 +41,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d5766578-3089-48f9-92e2-6206cc79abe0")
+		(uuid "2e363bb8-e7d3-44bf-84f6-337758d5e1c3")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -59,7 +59,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "f7e24a44-7c51-4715-92cb-2abe2240194b")
+		(uuid "9a5f8b16-178d-4395-9018-320a56805674")
 	)
 	(fp_rect
 		(start -0.5 -1.75)
@@ -70,7 +70,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "9acdc1f4-58b9-4b7e-8781-3e81147ce589")
+		(uuid "c706c40a-9d4e-4a54-a96e-011adb89fdf5")
 	)
 	(fp_line
 		(start 0 0)
@@ -80,7 +80,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "7da5cacd-a790-41ce-8cc3-dc6422116d1c")
+		(uuid "49de6a80-5e57-4153-959e-260bc8d76dfc")
 	)
 	(fp_line
 		(start 6.96 0)
@@ -90,7 +90,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "f383bbc6-9ccb-467d-828b-a89b702bda08")
+		(uuid "8eee0982-3b2c-4bbc-99a1-b606c0631825")
 	)
 	(pad "1" thru_hole rect
 		(at 0 0)
@@ -98,7 +98,7 @@
 		(drill 0.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "bf0f34dd-dbdc-44a8-b6ea-5741f80df301")
+		(uuid "08d52eed-c9ef-4015-a994-47da88513600")
 	)
 	(pad "2" thru_hole circle
 		(at 7.62 0)
@@ -106,7 +106,18 @@
 		(drill 0.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "c1beda75-4e1c-48f6-a71e-3ce38d4f9664")
+		(uuid "427b5dfe-f1f9-49ac-a65f-82d6aa823b3c")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/R_Axial_P7.62mm_Horizontal.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

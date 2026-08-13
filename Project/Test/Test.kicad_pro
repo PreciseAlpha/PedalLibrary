@@ -648,7 +648,7 @@
         "uuid": "b6d1646f-4d5e-430d-9551-1923e26999ba"
       }
     ],
-    "used_designators": "TP1,RV1-7,C1-14,Q1-36,J1-15,SW1-14,D1-24,U1-45,L1,R1-3,PAD1-2,T1-2,LAMP1,1",
+    "used_designators": "TP1,RV1-7,C1-14,Q1-36,J1-15,SW1-14,D1-24,U1-45,L1,R1-3,PAD1-2,T1-2,LAMP1,1,B1-3",
     "variants": []
   },
   "sheets": [

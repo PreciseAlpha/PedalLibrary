@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 5.08 0 0)
 		(layer "F.SilkS")
-		(uuid "da0b1fa7-7a26-4814-b3b8-f399f772f64e")
+		(uuid "fa23c3d0-a3b8-48a0-8bdf-12db6e910a84")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "R_10.16mm_H"
 		(at 5.08 2.37 0)
 		(layer "F.Fab")
-		(uuid "66e5d3ef-8cd2-408a-af79-9afd2f84ba67")
+		(uuid "9b9c53f8-3b90-47e2-aeab-1ae0ca5f7629")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d5199b3b-ebd3-4fe0-ab3c-838306ec8da7")
+		(uuid "4f4aad53-0d62-40d5-b2d0-97b75e553604")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,7 +42,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ac668a96-d51c-45b8-8f1a-a1e1eb523471")
+		(uuid "6950b56d-cde5-419e-9880-e30765adad0f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -53,7 +53,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "fc8c0f22-bc42-462a-ba73-374b2be63952")
+		(uuid "5e507a65-ed13-4d62-b5ce-f0192f7cf101")
 		(effects
 			(font
 				(size 1 1)
@@ -63,36 +63,16 @@
 	)
 	(attr through_hole)
 	(duplicate_pad_numbers_are_jumpers no)
-	(fp_line
-		(start 1.04 0)
-		(end 1.81 0)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "26270f16-91ce-41ac-91e3-0ad95b54343e")
-	)
-	(fp_line
-		(start 9.12 0)
-		(end 8.35 0)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "7b509464-c211-4b8f-9da3-1ea973ad0cbe")
-	)
 	(fp_rect
-		(start 1.81 -1.37)
-		(end 8.35 1.37)
+		(start 1.25 -1.37)
+		(end 8.75 1.37)
 		(stroke
 			(width 0.25)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "9c375705-a8bb-4682-a7f4-5b24be484695")
+		(uuid "5131fc94-eb72-418f-b128-8535bfd873a4")
 	)
 	(fp_rect
 		(start -1.05 -1.5)
@@ -103,7 +83,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "03274b49-97f6-49ad-a165-65bd360f3223")
+		(uuid "5b949486-4bce-4f9e-a0c5-09ab52fe5d51")
 	)
 	(fp_line
 		(start 0 0)
@@ -113,7 +93,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "5d5fb91c-584f-478e-a0b6-18487e715a02")
+		(uuid "9e6cb426-4836-4ab5-bd27-69ec178f35ae")
 	)
 	(fp_line
 		(start 10.16 0)
@@ -123,7 +103,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "647608b8-3b92-4a06-ace7-2be8f8bbb92b")
+		(uuid "1dbcd15c-67ed-462d-bbd5-0454291c2839")
 	)
 	(fp_rect
 		(start 1.93 -1.25)
@@ -134,12 +114,12 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "5088196a-9079-4445-aa91-fc7e5faa02d2")
+		(uuid "2aa35fe1-c8fb-4cc3-9e00-8c77d7ae63aa")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 5.08 0 0)
 		(layer "F.Fab")
-		(uuid "b5901c56-465f-483f-8aec-6c79a8b477b2")
+		(uuid "89c1d13f-3ef1-422b-b4a8-088398ee37cd")
 		(effects
 			(font
 				(size 1 1)
@@ -153,7 +133,7 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "bc15f38e-7cfd-488d-856d-30b810d1886b")
+		(uuid "d4eae99d-0c89-4c4f-b554-fdeb5bcbba21")
 	)
 	(pad "2" thru_hole circle
 		(at 10.16 0)
@@ -161,10 +141,10 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "786811d9-994b-4875-b6b3-dfb8581c1868")
+		(uuid "e190af4f-0047-4bd5-be56-f3f755517f50")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+	(model "C:/Users/devin/OneDrive/Desktop/GuitarPedalStuff/Library/PedalLibrary/Models/R_Axial_P10.16mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)
