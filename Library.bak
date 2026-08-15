@@ -27513,7 +27513,19 @@
 			)
 			(polyline
 				(pts
-					(xy -1.27 -1.27) (xy 1.52 -2.79)
+					(xy -1.27 -1.27) (xy 1.524 -2.794)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.254 -2.286) (xy 0.254 -1.524)
 				)
 				(stroke
 					(width 0.254)
@@ -27536,31 +27548,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.75 -2.05) (xy 1.25 -2.65) (xy 0.45 -2.55)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.52 2.79) (xy 1.52 2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.52 -2.79) (xy 1.52 -2.54)
+					(xy 0.254 -1.524) (xy 0.508 -2.286) (xy -0.254 -2.286)
 				)
 				(stroke
 					(width 0.254)
@@ -27571,7 +27559,7 @@
 				)
 			)
 			(pin passive line
-				(at 3.81 5.08 270)
+				(at 2.54 5.08 270)
 				(length 2.54)
 				(name "C"
 					(effects
@@ -27607,7 +27595,7 @@
 				)
 			)
 			(pin passive line
-				(at 3.81 -5.08 90)
+				(at 2.54 -5.08 90)
 				(length 2.54)
 				(name "E"
 					(effects
@@ -27797,30 +27785,6 @@
 			(circle
 				(center 0 0)
 				(radius 3.56)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.52 2.79) (xy 1.52 2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.52 -2.79) (xy 1.52 -2.54)
-				)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -36699,7 +36663,7 @@
 				)
 			)
 		)
-		(property "Value" "1/4W Metal Film Resistor"
+		(property "Value" "1/4W P10.16"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36856,7 +36820,7 @@
 				)
 			)
 		)
-		(property "Value" "1/4W Metal Film Resistor"
+		(property "Value" "1/4W P7.62"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
